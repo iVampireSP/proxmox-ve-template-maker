@@ -28,7 +28,7 @@ declare -A os_images=(
 
 echo "------------------------"
 echo "Auto image maker by iVampireSP.com"
-echo "Leaflow 利飞 https://www.leaflow.cn"
+echo "Leaflow 利飞 https://www.leaflow.net"
 echo "------------------------"
 
 echo "全部镜像:"
